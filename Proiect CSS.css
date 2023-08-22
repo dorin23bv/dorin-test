@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+.titlu
+{
+	font-size: 60px;
+	color:darkblue;
+	font-family: Serif;
+	
+}
+.adresa
+{
+	font-size:25px;
+	color: #7E53EE
+		
+}
+.program
+{
+	font-size:25px;
+	color: #7E53EE
+}
+.miscare
+{
+	font-size: 30px;
+	color: #7E53EE
+}
+.despre-noi
+{
+	font-size: 25px;
+	color:#000000
+}
+.preturi
+{
+	font-size: 25px;
+	color:#000000
+}
+.preventie
+{
+	font-size: 25px;
+	color:#000000
+}
+.curiozitati
+{
+font-size:25px;
+	color:#000000;
+}
